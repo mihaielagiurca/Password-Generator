@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Josefin+Sans:wght@300;400;600&family=Karla:wght@800&family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Inter&family=Josefin+Sans:wght@300;400;600&family=Karla:wght@800&family=Montserrat:wght@500&display=swap');
+
+body{
+    background-color: #1C1C1C;;
+    
+    font-size: 16px;
+}
+.container{
+    width:550px;
+    height:550px;
+    background-color: #1F2937;
+    margin: 100px auto;
+}
+h1{
+    font-family: 'Karla';
+    font-weight: 800;
+    font-size: 40px;
+    color:#FFFFFF;
+    padding: 7rem 3rem 0 3rem;
+    margin:0;
+    line-height: 2.5rem;
+}
+span{
+    color:#4ADF86;
+    padding-top: 0;
+}
+p{
+    font-family:'Inter';
+    font-size: 20px;
+    font-weight:400;
+    color:#D5D4D8;
+    margin-top: 0rem;
+    margin-left: 3rem;
+    padding-top: 1rem;
+    
+}
+button{
+    width: 12rem;
+    height: 2.5rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    background-color: #10B981;
+    border:none;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+hr{
+    margin: 1rem 3rem;
+    border-color:#2F3E53;
+    height:1px;
+   
+}
+.password{
+    display: flex;
+    flex-direction: row;
+}
+#input1{
+    width: 14rem;
+    height: 2rem;
+    background-color: #273549;
+    border: none;
+    border-radius: 6px;
+    text-align: center;  
+    margin-left:3rem;
+    margin-top: 1rem;
+}
+#input2{
+    width: 14rem;
+    height: 2rem;
+    background-color: #273549;
+    border: none;
+    border-radius: 6px;
+    text-align: center;  
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
